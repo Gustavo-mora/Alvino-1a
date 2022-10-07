@@ -28,4 +28,24 @@ body{
     text-align:center;
   }
   #missao{
-    color:#51abdb
+    font-size:20px
+  }
+  em strong{
+    color:#51abdb;
+  }
+  .itens{
+    font-style:italic
+  }
+  .beneficios{
+    background:#2f68d4;
+    padding:20px;
+  }
+  ul{
+    display:inline-block;
+    vertical-align:top;
+    width:20%;
+    margin-right:15%;
+  }
+  .imagembeneficios{
+    width:50%;
+  }
