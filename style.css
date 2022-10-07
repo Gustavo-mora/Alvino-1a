@@ -10,3 +10,22 @@ footer{
 h1{
   color:#2f68d4
 }
+body{
+}
+#banner{
+  width:100%
+    .principal{
+      background:#2f68d4;
+      padding:30px;
+  }
+  .titulo-principal{
+    padding-left:20px;
+  }
+  .titulo-centralizado{
+    text-align:center
+  }
+  p{
+    text-align:center;
+  }
+  #missao{
+    color:#51abdb
